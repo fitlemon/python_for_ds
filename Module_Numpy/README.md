@@ -1,7 +1,7 @@
 ### <img src='../static/img/mipt-icon.png' width="70" height="30"> Курс "Программирование на Python" (Магистратура "Науки о данных" МФТИ - 2023/2024) 
 ---
-:blue_book:  
-# Конспект по Модулю **Numpy** 
+:house: [Вернуться на главный экран](..)
+# Конспект по Модулю **Numpy**  :blue_book:  
 
 
 ## Оглавление конспекта
@@ -18,4 +18,3 @@
 1. [Задачки с семинаров по Zoom](./seminars/)
 2. [Документация по Numpy](https://numpy.org/doc/stable/reference/routines.statistics.html)
 
-:house: [Вернуться на главный экран](..)
