@@ -12,6 +12,7 @@
 5. [Объединение DataFrame. Concat](5_pandas_adv_concat.ipynb)
 6. [Объединение DataFrame. Join, Merge](6_pandas_adv_join.ipynb)
 7. [Закрепление знаний. Задания. ](7_pandas_adv_tests.ipynb)
+8. [Задачки с доп.курса "Продвинутые методы МО" ](8_pandas_adv_mipt.ipynb)
 
 ---
 

@@ -10,6 +10,7 @@
 3. [Создание и преобразование столбцов](3_pandas_apply_functions.ipynb)  
 4. [Тип данных Category](4_pandas_category.ipynb)
 5. [Задание на закрепление знаний.](5_module_test.ipynb)
+6. [Задачки с доп.курса "Продвинутые методы МО" ](6_pandas_mipt_lms.ipynb)
 
 ---
 
