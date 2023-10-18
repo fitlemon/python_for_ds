@@ -10,12 +10,14 @@
 3. [Группировка данных в DataFrame](3_pandas_adv_groupby.ipynb)  
 4. [Сводные таблицы](4_pandas_adv_summary_tables.ipynb)
 5. [Объединение DataFrame. Concat](5_pandas_adv_concat.ipynb)
+6. [Объединение DataFrame. Join, Merge](6_pandas_adv_join.ipynb)
+7. [Закрепление знаний. Задания. ](7_pandas_adv_tests.ipynb)
 
 ---
 
 ### Дополнительная информация по модулю: :books:
 1. [Задачки с семинаров по Zoom](./seminars/)
 2. [Документация по Pandas](https://pandas.pydata.org/docs/)
-3. 
-4.
+3. [Выдержка из модуля ](./data/DST_Блок_1_Модуль_12._Продвинутые_методы_работы_с_данными_в_Pandas.pdf)
+4. [Статья о методах объединения DataFrame в Pandas (в том числе о тех, которые не рассматривались в этом модуле)](https://pythobyte.com/how-to-merge-dataframes-in-pandas-23614/)
 
