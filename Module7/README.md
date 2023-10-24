@@ -5,13 +5,13 @@
 
 
 ## Оглавление конспекта
-1. [Введение. Зачем нужна визуализация](1_pandas_adv_intro.ipynb) 
-2. [Обзор типов визуализации ](2_pandas_adv_sorting.ipynb) 
-3. [Графические возможности библиотеки Pandas](3_pandas_adv_groupby.ipynb)  
-4. [Графические возможности библиотеки Matplotlib](4_pandas_adv_summary_tables.ipynb)
-5. [Графические возможности библиотеки Seaborn](5_pandas_adv_concat.ipynb)
-6. [Графические возможности библиотеки Plotly](6_pandas_adv_join.ipynb)
-7. [Искусство визуализации ](7_pandas_adv_tests.ipynb)
+1. [Введение. Зачем нужна визуализация](1_data_visual_intro.ipynb) 
+2. [Обзор типов визуализации ](2_data_visual_types.ipynb) 
+3. [Графические возможности библиотеки Pandas](3_data_visual_pandas.ipynb)  
+4. [Графические возможности библиотеки Matplotlib](4_data_visual_matplotlib.ipynb)
+5. [Графические возможности библиотеки Seaborn](5_data_visual_seaborn.ipynb)
+6. [Графические возможности библиотеки Plotly](6_data_visual_plotly.ipynb)
+7. [Искусство визуализации ](7_data_visual_art.ipynb)
 
 ---
 
