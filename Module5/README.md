@@ -16,7 +16,8 @@
 
 ### Дополнительная информация по модулю: :books:
 1. [Задачки с семинаров по Zoom](./seminars/)
-2. [Документация по Pandas](https://pandas.pydata.org/docs/)
-3. [Выдержка из модуля ](./data/DST_Блок_2_Модуль_11._Базовые_приёмы_работы_с_данными_в_Pandas.pdf)
-4. [Статья «Feature engineering: шесть шагов для создания успешной модели машинного обучения»](https://hightech.fm/2018/08/09/featureengineering)
+2. [Конспект модуля](https://drive.google.com/file/d/1EhMWJRokLhFVq7fd-Y1ryf8oxk1v5gI2/view?usp=sharing)
+3. [Документация по Pandas](https://pandas.pydata.org/docs/)
+4. [Выдержка из модуля ](./data/DST_Блок_2_Модуль_11._Базовые_приёмы_работы_с_данными_в_Pandas.pdf)
+5. [Статья «Feature engineering: шесть шагов для создания успешной модели машинного обучения»](https://hightech.fm/2018/08/09/featureengineering)
 

@@ -18,7 +18,8 @@
 
 ### Дополнительная информация по модулю: :books:
 1. [Задачки с семинаров по Zoom](./seminars/)
-2. [Документация по Pandas](https://pandas.pydata.org/docs/)
-3. [Выдержка из модуля ](./data/DST_Блок_1_Модуль_12._Продвинутые_методы_работы_с_данными_в_Pandas.pdf)
-4. [Статья о методах объединения DataFrame в Pandas (в том числе о тех, которые не рассматривались в этом модуле)](https://pythobyte.com/how-to-merge-dataframes-in-pandas-23614/)
+2. [Конспект модуля](https://drive.google.com/file/d/1L2yR_bs5DesCY3DWf3lnj3ldfRKRTzcy/view?usp=sharing)
+3. [Документация по Pandas](https://pandas.pydata.org/docs/)
+4. [Выдержка из модуля ](./data/DST_Блок_1_Модуль_12._Продвинутые_методы_работы_с_данными_в_Pandas.pdf)
+5. [Статья о методах объединения DataFrame в Pandas (в том числе о тех, которые не рассматривались в этом модуле)](https://pythobyte.com/how-to-merge-dataframes-in-pandas-23614/)
 

@@ -17,6 +17,7 @@
 
 ### Дополнительная информация по модулю: :books:
 1. [Задачки с семинаров по Zoom](./seminars/)
-2. [Документация по Matplotlib](https://matplotlib.org/)
-3. [Документация по Seaborn](http://seaborn.pydata.org/index.html)
-4. [Документация по Plotly](https://plotly.com/python/)
+2. [Конспект модуля](https://drive.google.com/file/d/19Jkbdri6rfajAHiC2TzZ6IHhqF1rsOxi/view?usp=sharing)
+3. [Документация по Matplotlib](https://matplotlib.org/)
+4. [Документация по Seaborn](http://seaborn.pydata.org/index.html)
+5. [Документация по Plotly](https://plotly.com/python/)

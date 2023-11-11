@@ -17,7 +17,8 @@
 
 ### Дополнительная информация по модулю: :books:
 1. [Задачки с семинаров по Zoom](./seminars/)
-2. [Документация по Pandas](https://pandas.pydata.org/docs/)
-3. [Настольная шпаргалка по Pandas](./data/Pandas_info.pdf)
-4. [Замечательная книга, которую вы можете использовать как справочник при работе с Pandas](./data/Pandas.%20Работа%20с%20данными.pdf)
-5. [Введение в анализ данных с помощью Pandas на Habr](https://habr.com/ru/articles/196980/)
+2. [Конспект модуля](https://drive.google.com/file/d/1pDig_iP30DemfyIMVJ1_Qtjg_CH5YiBR/view?usp=sharing)
+3. [Документация по Pandas](https://pandas.pydata.org/docs/)
+4. [Настольная шпаргалка по Pandas](./data/Pandas_info.pdf)
+5. [Замечательная книга, которую вы можете использовать как справочник при работе с Pandas](./data/Pandas.%20Работа%20с%20данными.pdf)
+6. [Введение в анализ данных с помощью Pandas на Habr](https://habr.com/ru/articles/196980/)

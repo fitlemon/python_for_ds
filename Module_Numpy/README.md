@@ -17,4 +17,5 @@
 ### Дополнительная информация по модулю:
 1. [Задачки с семинаров по Zoom](./seminars/)
 2. [Документация по Numpy](https://numpy.org/doc/stable/reference/routines.statistics.html)
+3. [Official guide](https://numpy.org/doc/stable/user/index.html)
 
