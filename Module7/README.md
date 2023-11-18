@@ -28,3 +28,5 @@
 3. [Документация по Matplotlib](https://matplotlib.org/)
 4. [Документация по Seaborn](http://seaborn.pydata.org/index.html)
 5. [Документация по Plotly](https://plotly.com/python/)
+6. [Документация по Altair](https://altair-viz.github.io/user_guide/data.html)
+7. [ДПО. Продвинутые методы МО. Визуализация данных. Конспекты](https://drive.google.com/drive/folders/1OGfLugjW9E9tiHhqpw_SqYrsio_3Il0z?usp=sharing)
