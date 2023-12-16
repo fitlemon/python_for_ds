@@ -5,10 +5,10 @@
 
 
 ## Оглавление конспекта
-1. [Веб-запросы. Библиотека requests](1_data_cleaning_intro.ipynb) 
-2. [Парсинг сайтов. BeautifilSoap](2_data_cleaning_nan_values.ipynb) 
-3. [Работа с API](3_data_cleaning_outliers.ipynb)  
-4. [Регулярная выгрузка данных. Schedule](4_data_cleaning_duplicates.ipynb)
+1. [Веб-запросы. Библиотека requests](1_web_requests.ipynb) 
+2. [Парсинг сайтов. BeautifilSoap](2_web_parsing.ipynb) 
+3. [Работа с API](3_web_api.ipynb)  
+4. [Регулярная выгрузка данных. Schedule](4_web_scripts.ipynb)
 
 ---
 
